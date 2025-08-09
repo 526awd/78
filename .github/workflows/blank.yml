@@ -39,5 +39,5 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: zundamon.mp4
-          tag_name:main
+          tag_name: main
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
