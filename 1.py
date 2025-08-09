@@ -4,4 +4,4 @@ to="zundamon.mp4"
 si=99
 os.system("cp "+inp+" "+to)
 for i in range(si):
-    os.system("ffmpeg -f concat -i "+inp+"+"+to+" "+to
+    os.system("ffmpeg -f concat -i "+inp+"+"+to+" "+to)
