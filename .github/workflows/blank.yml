@@ -40,4 +40,4 @@ jobs:
         with:
           files: zundamon.mp4
           tag_name: main
-          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
